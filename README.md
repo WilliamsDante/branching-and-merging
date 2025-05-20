@@ -32,12 +32,12 @@ Push jerry's changes to the main branch `git push origin add-contact-info`
 
 * Create a pull request for Jerry's branch just as you did for Tom's branch
 
-![Jerrys pull request](./img/07.%20jerrys%20pull%20request%20.png)
+![Jerry's pull request](./img/07.%20jerrys%20pull%20request%20.png)
 
 ![creating pull request](./img/08.%20creating%20pull%20request.png)
 
 * Merge Jerry's pull request to the main branch
 
-![jerrys merge](./img/09.%20pull%20merged%20.png)
+![jerry's merge](./img/09.%20pull%20merged%20.png)
 
 Changes made by both branches have now been successfully merged to the main.
